@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-3257.14" y1="42.74" x2="-3251.5" y2="33.2" gradientTransform="translate(162974 -1646) scale(50)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6ac7ff"/>
+      <stop offset="1" stop-color="#148aff"/>
+    </linearGradient>
+  </defs> 
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <g id="Capa_1" data-name="Capa 1">
+          <circle class="cls-1" cx="256" cy="256" r="256"/>
+          <path class="cls-2" d="M336.29,185.82l-37.49-37.5a7.32,7.32,0,0,0-2.45-1.62,7.71,7.71,0,0,0-2.85-.57H196a22.5,22.5,0,0,0-22.5,22.5v165a22.5,22.5,0,0,0,22.5,22.5H316a22.5,22.5,0,0,0,22.5-22.5V191.13A7.58,7.58,0,0,0,336.29,185.82ZM301,171.74l11.89,11.89H301Zm22.5,161.89a7.5,7.5,0,0,1-7.5,7.5H196a7.5,7.5,0,0,1-7.5-7.5v-165a7.5,7.5,0,0,1,7.5-7.5h90v30a7.5,7.5,0,0,0,7.5,7.5h30v135Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
